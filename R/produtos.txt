@@ -1,0 +1,6 @@
+Monitor,Mouse,Teclado
+Mouse,Teclado
+Monitor,Mouse
+Monitor,Mouse,Teclado
+Monitor,Mouse
+Mouse

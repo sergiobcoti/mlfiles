@@ -1,0 +1,17 @@
+ID,P
+10,Mouse
+20,Teclado
+10,Teclado
+20,Mouse
+10,Monitor
+30,Jogo
+40,HD
+30,PenDriver
+30,Software
+50,Jogo
+40,Monitor
+40,PC
+20,Monitor
+50,HD
+90,Notebook
+
