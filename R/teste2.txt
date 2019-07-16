@@ -1,0 +1,2 @@
+nome	email	sexo
+maria	maria@gmail.com	m
